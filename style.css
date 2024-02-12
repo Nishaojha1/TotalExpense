@@ -44,3 +44,17 @@ form button {
     border-bottom-right-radius: 8px;
     cursor: ponter;
 }
+::placeholder{
+    color: #fff;
+    font-size: 18px;
+}
+#show-more-btn {
+    background-color: #ff3929;
+    color: #fff;
+    border: 0;
+    padding: 10px 20px;
+    margin: 10px auto 100px;
+    display: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
